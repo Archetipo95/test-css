@@ -2,6 +2,6 @@
   <div class="in-style">In style</div>
 </template>
 
-<style>
-@import './assets/style.css';
+<style scoped>
+@import './assets/in-style.css';
 </style>
